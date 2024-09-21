@@ -6,6 +6,7 @@ redesign - diff lotties, color, font, etc.
 Resume page build out
 Projects page cleaned up
 about page, hate the icons, too much space and blocky bad design, lets do a moving streamer/marquee type animation
+padding and spacing feels weird, needs redesign
 <br/>
 
 ## Fork
